@@ -1,2 +1,2 @@
 # TesteDosTestes
-Implementação de testes para um domínio de chamados
+Modelagem de domínio e implementação de testes de unidade para um sistema de chamados
