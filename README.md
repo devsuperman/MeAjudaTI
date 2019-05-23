@@ -1,2 +1,4 @@
 # MeAjudaTI
-É o nome de um sistema de chamados que criei no lugar onde trabalho. O repositório público contém apenas o domínio e os testes implementados na primeira versão para fins de estudo.  
+É o nome de um sistema de chamados criado por mim 😄
+
+Este repositório contém apenas o domínio e os testes implementados por mim na primeira versão e é destinado apenas para fins de estudo.  
