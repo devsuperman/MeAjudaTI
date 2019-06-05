@@ -2,3 +2,5 @@
 É o nome de um sistema de chamados criado por mim 😄
 
 Este repositório contém apenas o domínio e os testes implementados por mim na primeira versão e é destinado apenas para fins de estudo.  
+
+Para rodar os testes basta acessar a pasta /Tests e executar "dotnet test".
